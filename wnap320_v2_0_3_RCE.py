@@ -1,10 +1,15 @@
-'''
-IoT Device: Netgear WNAP320 Access Point
-Firmware version: v2.0.3
-Vulnerability: Remote Command Execution on /boardDataWW.php macAddress parameter
-Notes: The RCE doesn't need to be authenticated
-Exploit Developer: NobodyAtall 
-'''
+# Exploit Title: Netgear WNAP320 Access Point Firmware Version 2.0.3 RCE
+# Vulnerability: Remote Command Execution on /boardDataWW.php macAddress parameter
+# Notes: The RCE doesn't need to be authenticated
+# Google Dork: [Null]
+# Date: 26th June 2021
+# Exploit Author: Bryan Leong <NobodyAtall>
+# Vendor Homepage: [Null]
+# Software Link: [Null]
+# IoT Device: Netgear WNAP320 Access Point
+# Version: WNAP320 Access Point Firmware v2.0.3
+# Tested on: [Null]
+# CVE : [Null]
 
 import requests
 import sys
