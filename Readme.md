@@ -12,5 +12,7 @@ Notes: The RCE doesn't need to be authenticated
 
 ![alt text](image.png)
 
+## YouTube Video Link (Firmware Analysis on Netgear WNAP320 Access Point & Exploit the Vulnerable):
+https://www.youtube.com/watch?v=uHFNTK_Jd5g
 
 
